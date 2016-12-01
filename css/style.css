@@ -1,0 +1,96 @@
+/*
+.learn{
+background-color: white;
+  padding: 25px 25px ;
+  border-style: solid;
+  color: #ccc;
+
+  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+  line-height: normal;
+
+}
+
+body{
+
+}
+.login{
+
+}*/
+.learn{
+  color:black ;
+}
+body {
+  text-align: center;
+  background: url(../img/bp_background_2_blue1.jpg) center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 100%;
+  margin: auto;
+  width: auto;
+}
+.bord{
+  text-align: center;
+  margin: auto;
+  width: auto;
+background-color: #F4ECF7;
+padding: 25px 50px ;
+padding-top: 0px;
+border-style: solid;
+color: #515A5A;
+width: 400px;
+height: 100px;
+font-size: 20px;
+font-style: italic;
+}
+.larg{
+    border: 50%;
+  text-align: center;
+  margin: auto;
+  background-color: #F4ECF7;
+  padding: 15px 50px 10px;
+  padding-top: 0px;
+  border-style: solid;
+  color: #515A5A;
+  width: 400px;
+  height: 410px;
+  font-style: italic;
+  line-height: 40px;
+}
+.pass{
+  padding: 16px 16px 8px;
+  width: 350px;
+  height: 20px;
+  font-size: 18px;
+
+}
+.signin{
+  border-style: solid;
+  color: white;
+  background-color: #BB8FCE;
+  padding: 16px 157px 8px;
+  padding-top: 18px;
+  padding-bottom: 14px;
+  font-weight: bold;
+  font-size: 20px
+
+
+}
+p{
+  text-align: left;
+}
+.GitHub{
+  background-color: white;
+  color: #BB8FCE;
+  border-style: solid;
+  border-color: #BB8FCE;
+  padding: 16px 90px 8px;
+  padding-top: 18px;
+  padding-bottom: 14px;
+  font-weight: bold;
+  font-size: 20px;
+}
+h2{
+  color: aqua;
+}
